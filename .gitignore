@@ -1,3 +1,4 @@
 /git-learn-java.iml
 /out/
 /.idea/
+/src/main/resource/application-local.properties
