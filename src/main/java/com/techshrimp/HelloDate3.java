@@ -11,6 +11,5 @@ public class HelloDate3 {
         System.out.println("第二部分");
         System.out.println("第三部分");
         System.out.println("第四部分");
-        System.out.println("第五部分");
     }
 }
