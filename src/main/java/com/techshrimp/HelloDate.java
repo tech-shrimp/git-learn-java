@@ -9,6 +9,5 @@ public class HelloDate {
         System.out.println(new Date());
         System.out.println("第一部分");
         System.out.println("第二部分");
-        System.out.println("第三部分");
     }
 }
