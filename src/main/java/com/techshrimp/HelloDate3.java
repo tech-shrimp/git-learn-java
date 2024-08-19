@@ -8,5 +8,6 @@ public class HelloDate3 {
         System.out.println("Hello, it's: ");
         System.out.println(new Date());
         System.out.println("Hello, it's: 1");
+        System.out.println("Hello, it's: 2");
     }
 }
