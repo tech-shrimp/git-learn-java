@@ -10,6 +10,6 @@ public class HelloDate2 {
         System.out.println("第一部分");
         System.out.println("第二部分");
         System.out.println("第三部分");
-        System.out.println("第zan部分");
+        System.out.println("第四部分");
     }
 }
