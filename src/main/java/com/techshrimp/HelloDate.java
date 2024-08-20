@@ -8,5 +8,6 @@ public class HelloDate {
         System.out.println("Hello, it's: haha ");
         System.out.println(new Date());
         System.out.println("第一部分");
+        System.out.println("Hello Tech-shrimp");
     }
 }
